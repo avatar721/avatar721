@@ -32,3 +32,5 @@ Features
 - Takedown with SSID
 - Takedown all channels
 - Spam many fake AP
+<<<<You Can Use This Tool For Spam and Dos Attack and Takedown users on wifi and Routers when you haven't joined network>>>>
+
