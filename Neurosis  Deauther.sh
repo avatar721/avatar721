@@ -21,7 +21,7 @@ Projects
 Wiki
 Security
 Insights
-Neurosis Deauther/Neurosis Deauther.sh
+Neurosis Deauther/NeurosisDeauther.sh
 @avatar721
 avatar721 Neurosis v1.2
 Latest commit 7b27f4e on Jan 29, 2020
@@ -37,7 +37,7 @@ Executable File  228 lines (211 sloc)  7.35 KB
 # Github: github.com/avatar721
 # Instagram: instagram.com/aryanwahid9
 # Give me the credits if you recode this tool. Don't be a SKID!
-# Neurosis Deauther is made with <3 by Arya Narotama - Anon Cyber Team - 2020
+# Neurosis Deauther is made with <3 by Aryanwahid - Cyber Kings Staff - 2020
 
 
 ### Colors ###
